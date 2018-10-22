@@ -16,6 +16,12 @@ vue create hello-world
 ```
 > 参考[创建一个项目](https://cli.vuejs.org/zh/guide/creating-a-project.html#vue-create)
 
+### 2.1. 运行项目
+使用如下命令运行当前项目：
+```
+npm run serve
+```
+
 
 ## 3. Vue Router
 ### 3.1. 安装Vue Router
@@ -57,3 +63,12 @@ new Vue({
 });
 ```
 > 参考[Elment引入](http://element-cn.eleme.io/#/zh-CN/component/quickstart)
+
+## 5. 快速原型开发
+> 参考[快速原型开发](https://cli.vuejs.org/zh/guide/prototyping.html)
+
+### 5.1. 安装扩展
+使用vue serve和vue build命令可以对单个*.vue文件进行快速原型开发，不过需要额外安装一个全局的扩展，使用如下命令进行安装：
+```
+npm install -g @vue/cli-service-global
+```
