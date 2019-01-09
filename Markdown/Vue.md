@@ -10,11 +10,21 @@ vue --version
 
 
 ## 2. 创建项目
+### 方法1
+
 使用如下命令创建项目：
 ```
 vue create hello-world
 ```
 > 参考[创建一个项目](https://cli.vuejs.org/zh/guide/creating-a-project.html#vue-create)
+
+### 方法2
+
+使用如下命令初始化项目：
+```
+vue init webpack hello-world
+```
+> 参考[Vue-cli教程](https://blog.csdn.net/pyycsd/article/details/78952052)
 
 ### 2.1. 运行项目
 使用如下命令运行当前项目：
