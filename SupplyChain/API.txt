@@ -1,0 +1,12 @@
+2019-01-06
+接口文件
+ace-admin:http://120.79.36.163:8762/swagger-ui.html#/
+ace-auth:http://120.79.36.163:9777/swagger-ui.html#/
+
+服务地址和商品
+ace-gate:http://120.79.36.163:8765
+
+2019-01-08
+原有业务接口文档
+http://120.79.36.163:8766/swagger-ui.html#/1460
+
